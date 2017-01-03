@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # SunshineNew
 ||||||| merged common ancestors
 =======
@@ -19,3 +20,7 @@ For the original version, please go [here](https://github.com/udacity/Sunshine).
 
 A changelog for the course can be found [here](https://docs.google.com/a/knowlabs.com/document/d/193xJb_OpcNCqgquMhxPrMh05IEYFXQqt0S6-6YK8gBw/pub).
 >>>>>>> Project Sunshine Udacity
+||||||| merged common ancestors
+=======
+# SunshineNew
+>>>>>>> 659064ff6220d6a73914da577e3a3050b0d5356b
