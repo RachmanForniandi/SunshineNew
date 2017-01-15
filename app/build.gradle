@@ -20,6 +20,12 @@ android {
     buildTypes.each {
         it.buildConfigField 'String', 'OPEN_WEATHER_MAP_API_KEY', '"37829a9a60eb42a269a2114ff460d739"'
     }
+
+    sourceSets {
+        main {
+            res.srcDirs = ['src/main/res', 'src/main/res/drawable-v21', 'src/main/res/values-land', 'src/main/res/values-v14', 'src/main/res/values-v21']
+        }
+    }
 }
 
 dependencies {

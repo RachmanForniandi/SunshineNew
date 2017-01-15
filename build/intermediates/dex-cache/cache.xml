@@ -2,40 +2,58 @@
 <items version="2" >
 
     <item
-        is-multidex="false"
-        jar="C:\Users\Lenovo\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.2\support-annotations-21.0.2.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="C:\Users\Lenovo\AndroidStudioProjects\SunshineNew\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
         optimize="true"
         revision="21.1.2"
-        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
-        <dex dex="C:\Users\Lenovo\AndroidStudioProjects\SunshineNew\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.2_3484094068e72a6ef77ebc590102d13fde660044.jar" />
+        sha1="018d6b6a54880aa2f41dafd78f9712fea0c19a6a">
+        <dex dex="C:\Users\Lenovo\AndroidStudioProjects\SunshineNew\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_b8711fcc586fa9f8fc332c4892ea3aafa979fd2f\classes.dex" />
     </item>
     <item
-        is-multidex="false"
+        is-multidex="true"
         jar="C:\Users\Lenovo\AndroidStudioProjects\SunshineNew\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\jars\libs\internal_impl-21.0.2.jar"
-        jumboMode="false"
+        jumboMode="true"
         optimize="true"
         revision="21.1.2"
         sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
-        <dex dex="C:\Users\Lenovo\AndroidStudioProjects\SunshineNew\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.2_ea96a87d600d32d5f660f1c55e5311762cdc03b3.jar" />
+        <dex dex="C:\Users\Lenovo\AndroidStudioProjects\SunshineNew\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-21.0.2_ea96a87d600d32d5f660f1c55e5311762cdc03b3\classes.dex" />
     </item>
     <item
-        is-multidex="false"
+        is-multidex="true"
         jar="C:\Users\Lenovo\AndroidStudioProjects\SunshineNew\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.2\jars\classes.jar"
-        jumboMode="false"
+        jumboMode="true"
         optimize="true"
         revision="21.1.2"
         sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54">
-        <dex dex="C:\Users\Lenovo\AndroidStudioProjects\SunshineNew\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-21.0.2_240210b62619cd63ff753518586bd417ccb8c7f5.jar" />
+        <dex dex="C:\Users\Lenovo\AndroidStudioProjects\SunshineNew\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-21.0.2_240210b62619cd63ff753518586bd417ccb8c7f5\classes.dex" />
     </item>
     <item
-        is-multidex="false"
+        is-multidex="true"
+        jar="C:\Users\Lenovo\AndroidStudioProjects\SunshineNew\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="9c7ffdae4507f89f4b86cae2eb8d408e708e85d6">
+        <dex dex="C:\Users\Lenovo\AndroidStudioProjects\SunshineNew\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_767b2c7ae2cae26d42c9a2859d69befecf64d4c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\Lenovo\AndroidStudioProjects\SunshineNew\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\jars\classes.jar"
-        jumboMode="false"
+        jumboMode="true"
         optimize="true"
         revision="21.1.2"
         sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
-        <dex dex="C:\Users\Lenovo\AndroidStudioProjects\SunshineNew\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-21.0.2_7761fff40856ce404eb3ced4ec3bc3e3a75b7903.jar" />
+        <dex dex="C:\Users\Lenovo\AndroidStudioProjects\SunshineNew\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-21.0.2_7761fff40856ce404eb3ced4ec3bc3e3a75b7903\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lenovo\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.2\support-annotations-21.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="C:\Users\Lenovo\AndroidStudioProjects\SunshineNew\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-21.0.2_3484094068e72a6ef77ebc590102d13fde660044\classes.dex" />
     </item>
 
 </items>
