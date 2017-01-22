@@ -7,7 +7,7 @@
         jumboMode="true"
         optimize="true"
         revision="21.1.2"
-        sha1="a526928964e9077ab340e6202a286097bbafb1ec">
+        sha1="427f25b28ed70c561efaaa8d6bcc9a83023d9d93">
         <dex dex="C:\Users\Lenovo\AndroidStudioProjects\SunshineNew\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_b8711fcc586fa9f8fc332c4892ea3aafa979fd2f\classes.dex" />
     </item>
     <item
@@ -34,7 +34,7 @@
         jumboMode="true"
         optimize="true"
         revision="21.1.2"
-        sha1="a34210883a2194ca2b9ac7daceb31c37d98c861b">
+        sha1="f21e9a55fac6875570eb3cff40cb898ade68b550">
         <dex dex="C:\Users\Lenovo\AndroidStudioProjects\SunshineNew\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_767b2c7ae2cae26d42c9a2859d69befecf64d4c3\classes.dex" />
     </item>
     <item
